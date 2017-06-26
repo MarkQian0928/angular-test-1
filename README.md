@@ -1,5 +1,14 @@
 # FirstApp
 
+version 1:
+    formModule practice
+
+version 2:
+    bootrasp practice
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
 
 ## Development server
@@ -29,7 +38,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # angular-test-1
 
 
-version 1:
- practice formModule
+
 
 

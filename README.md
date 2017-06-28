@@ -6,6 +6,15 @@ version 1:
 version 2:
     bootrasp practice
 
+version 3:
+  create a new component manually
+
+version 4:
+  create a new component by using 'ng g c servers' || 'ng genearate component servers
+
+  servers is the name of component
+  
+
 
 
 
